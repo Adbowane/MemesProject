@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2/tzz2+xQlyUsAq/HhaUQ3xDOQ9ndmjn/MfplLcMg+FrK2BQ5XrJey0uE8Yfrgir4va8BGaVRG6jgslJgBwWLw==",
+  "dgSpecHash": "iUjwAjR3wQ859Fm4UFb4mIz+1SmXQE3Tlq9xnAq62QWxqFtI+vFs/QQG/Z5GUb7RQnqRWwQv4m1id1bsCBkNgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wane\\MEMESAPIWEBAPI\\MemeProjetAPI\\MEMESPROJETS\\MEMES.API\\MEMES.API.csproj",
+  "projectFilePath": "C:\\Users\\wane\\monAPIB2MG\\MemeProjetAPI\\MEMESPROJETS\\meme2.APi\\MEMES.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\isidore\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\isidore\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
