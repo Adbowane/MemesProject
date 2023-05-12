@@ -10,7 +10,7 @@
         "projectUniqueName": "C:\\Users\\wane\\monAPIB2MG\\MemeProjetAPI\\MEMESPROJETS\\MEMES.WEB\\MEMES.WEB.csproj",
         "projectName": "MEMES.WEB",
         "projectPath": "C:\\Users\\wane\\monAPIB2MG\\MemeProjetAPI\\MEMESPROJETS\\MEMES.WEB\\MEMES.WEB.csproj",
-        "packagesPath": "C:\\Users\\isidore\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\wane\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\wane\\monAPIB2MG\\MemeProjetAPI\\MEMESPROJETS\\MEMES.WEB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
@@ -18,7 +18,7 @@
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\isidore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wane\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
